@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PersonalCooursera
 # Programming Assignment 2: Lexical Scoping
 
@@ -14,3 +15,6 @@ cacheSolve(cm)     # computes
 cacheSolve(cm)     # returns cached ("getting cached data")
 cm$set(diag(2))    # change matrix -> cache emtied
 cacheSolve(cm)     # recomputes
+=======
+# PersonalCoursera
+>>>>>>> ce429b00649be0888c2adf05fa988ab8684dcc54
